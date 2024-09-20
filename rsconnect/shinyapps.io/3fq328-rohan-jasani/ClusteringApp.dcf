@@ -1,0 +1,12 @@
+name: ClusteringApp
+title: ClusteringApp
+username: 3fq328-rohan-jasani
+account: 3fq328-rohan-jasani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12761652
+bundleId: 9126299
+url: https://3fq328-rohan-jasani.shinyapps.io/ClusteringApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

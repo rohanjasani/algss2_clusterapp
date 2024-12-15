@@ -1,4 +1,4 @@
-# ALGS Split 2 Playoff Dashboard
+# [ALGS Split 2 Playoff Dashboard](https://3fq328-rohan-jasani.shinyapps.io/ClusteringApp/)
 
 ## Description
 
